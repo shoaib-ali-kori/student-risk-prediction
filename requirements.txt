@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+lxml
+html5lib
+beautifulsoup4
+jupyter
